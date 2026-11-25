@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="260" viewBox="0 0 880 260" role="img" aria-label="One Emoji, One Smile — the Hatching Chick">
+  <rect width="880" height="260" fill="#0b1020"/>
+  <circle cx="440" cy="128" r="120" fill="#1a2445" opacity="0.9"/>
+  <text x="440" y="148" font-family="Segoe UI Emoji, Noto Color Emoji, sans-serif" font-size="132" font-weight="bold" text-anchor="middle" dominant-baseline="middle" fill="#e7f0ff">🐣</text>
+  <text x="440" y="210" font-family="Segoe UI, sans-serif" font-size="30" text-anchor="middle" fill="#a8c8ff" opacity="0.85">one emoji, one smile</text>
+</svg>
